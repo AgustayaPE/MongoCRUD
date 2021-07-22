@@ -1,0 +1,2 @@
+File handling might be fun with parsing.
+Tokenizor might make it even better.
